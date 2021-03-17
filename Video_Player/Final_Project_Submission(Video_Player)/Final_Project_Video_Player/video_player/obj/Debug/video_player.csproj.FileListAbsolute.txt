@@ -1,0 +1,269 @@
+C:\Users\acer\source\repos\video_player\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\source\repos\video_player\video_player\bin\Debug\video_player.exe
+C:\Users\acer\source\repos\video_player\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\App.g.cs
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.exe
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\video_player\video_player\obj\Debug\video_player_Content.g.cs
+D:\video_player\video_player\bin\Debug\video_player.exe.config
+D:\video_player\video_player\bin\Debug\video_player.exe
+D:\video_player\video_player\bin\Debug\video_player.pdb
+D:\video_player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+D:\video_player\video_player\obj\Debug\Audio.g.cs
+D:\video_player\video_player\obj\Debug\Help.g.cs
+D:\video_player\video_player\obj\Debug\MainWindow.g.cs
+D:\video_player\video_player\obj\Debug\Playback.g.cs
+D:\video_player\video_player\obj\Debug\Video.g.cs
+D:\video_player\video_player\obj\Debug\View.g.cs
+D:\video_player\video_player\obj\Debug\App.g.cs
+D:\video_player\video_player\obj\Debug\video_player_Content.g.cs
+D:\video_player\video_player\obj\Debug\video_player_MarkupCompile.cache
+D:\video_player\video_player\obj\Debug\video_player_MarkupCompile.lref
+D:\video_player\video_player\obj\Debug\Audio.baml
+D:\video_player\video_player\obj\Debug\Help.baml
+D:\video_player\video_player\obj\Debug\MainWindow.baml
+D:\video_player\video_player\obj\Debug\Playback.baml
+D:\video_player\video_player\obj\Debug\Video.baml
+D:\video_player\video_player\obj\Debug\View.baml
+D:\video_player\video_player\obj\Debug\video_player.g.resources
+D:\video_player\video_player\obj\Debug\video_player.Properties.Resources.resources
+D:\video_player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+D:\video_player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+D:\video_player\video_player\obj\Debug\video_player.exe
+D:\video_player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_Content.g.cs
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Downloads\Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_Content.g.cs
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Music\Resubmission_of_Implementation_Of_Video_Player\video_player\video_player\obj\Debug\video_player.pdb
+F:\video_player\video_player\bin\Debug\video_player.exe.config
+F:\video_player\video_player\bin\Debug\video_player.exe
+F:\video_player\video_player\bin\Debug\video_player.pdb
+F:\video_player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+F:\video_player\video_player\obj\Debug\MainWindow.g.cs
+F:\video_player\video_player\obj\Debug\App.g.cs
+F:\video_player\video_player\obj\Debug\video_player_Content.g.cs
+F:\video_player\video_player\obj\Debug\video_player_MarkupCompile.cache
+F:\video_player\video_player\obj\Debug\video_player_MarkupCompile.lref
+F:\video_player\video_player\obj\Debug\MainWindow.baml
+F:\video_player\video_player\obj\Debug\video_player.g.resources
+F:\video_player\video_player\obj\Debug\video_player.Properties.Resources.resources
+F:\video_player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+F:\video_player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+F:\video_player\video_player\obj\Debug\video_player.exe
+F:\video_player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\source\repos\video_player - Copy\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\source\repos\video_player - Copy\video_player\bin\Debug\video_player.exe
+C:\Users\acer\source\repos\video_player - Copy\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\App.g.cs
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.exe
+C:\Users\acer\source\repos\video_player - Copy\video_player\obj\Debug\video_player.pdb
+C:\video_player _final\video_player\bin\Debug\video_player.exe.config
+C:\video_player _final\video_player\bin\Debug\video_player.exe
+C:\video_player _final\video_player\bin\Debug\video_player.pdb
+C:\video_player _final\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\video_player _final\video_player\obj\Debug\MainWindow.g.cs
+C:\video_player _final\video_player\obj\Debug\App.g.cs
+C:\video_player _final\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\video_player _final\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\video_player _final\video_player\obj\Debug\MainWindow.baml
+C:\video_player _final\video_player\obj\Debug\video_player.g.resources
+C:\video_player _final\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\video_player _final\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\video_player _final\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\video_player _final\video_player\obj\Debug\video_player.exe
+C:\video_player _final\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Desktop\video_player _final\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Desktop\video_player _final\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Desktop\video_player _final\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Desktop\video_player _final\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Desktop\video_player _final_GA\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Desktop\video_player _final_GA\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Desktop\video_player _final_GA\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\video_player _final_GA\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Final_Video_Player\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Desktop\Final_Video_Player\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Desktop\Final_Video_Player\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Desktop\Final_Video_Player\video_player\obj\Debug\about.baml
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\about.baml
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Desktop\Final_Video_Player_Submission\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\about.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Video_Player_Submission\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\about.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\about.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player1\video_player\obj\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\bin\Debug\video_player.exe.config
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\bin\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\bin\Debug\video_player.pdb
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\about.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\App.g.cs
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\about.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\MainWindow.baml
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.g.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.exe
+C:\Users\acer\Music\Final_Video_Player_Submission\Final_Project_Video_Player3\video_player\obj\Debug\video_player.pdb
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\bin\Debug\video_player.exe.config
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\bin\Debug\video_player.exe
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\bin\Debug\video_player.pdb
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.csprojAssemblyReference.cache
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\about.g.cs
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\MainWindow.g.cs
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\App.g.cs
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.cache
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player_MarkupCompile.lref
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\about.baml
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\MainWindow.baml
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.g.resources
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.Properties.Resources.resources
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.csproj.GenerateResource.cache
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.exe
+C:\Users\Aniket\Desktop\CilaLabs\Video_Player\Final_Project_Submission(Video_Player)\Final_Project_Video_Player\video_player\obj\Debug\video_player.pdb
